@@ -1,4 +1,4 @@
-# Cesar-Encryption
+# Caesar-Cypher
 
   This is a program that encrypts any string by shifting every letter a certain number of times, depending on the given key. Note that       anything other than lower case or upper case letters isn't considered in the shifting.  
 
