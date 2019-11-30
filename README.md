@@ -5,4 +5,5 @@ This is a program that encrypts any string by shifting every letter a certain nu
 
 # What I learned 
 • Basic loops 
+
 • .charAt and other text manipulations
